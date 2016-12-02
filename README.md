@@ -1,3 +1,3 @@
 # archives
-old projects \n
+old projects \r
 Petit test pour commencer
